@@ -8,12 +8,17 @@
 🧵 Работа в отдельном потоке — интерфейс не зависает
 
 # Структура проекта
+```text
 yolo_clicker/
-    app.py
-    README.md
-    runs/detect/cookie_derector-2/weights/
-        best.pt
-        best.onnx
+├── app.py
+├── runs/
+│   └── detect/
+│       └── cookie_derector-2/
+│           └── weights/
+│               ├── best.pt
+│               └── best.onnx
+└── README.md
+```
 
 # Управление
 Действие	Клавиша / Кнопка
