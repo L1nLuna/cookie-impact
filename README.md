@@ -12,11 +12,9 @@
 cookie impact/
 ├── app.py
 ├── runs/
-│   └── detect/
-│       └── cookie_derector-2/
-│           └── weights/
-│               ├── best.pt
-│               └── best.onnx
+│   └── cookie_derector-2/
+│           ├── best.pt
+│           └── best.onnx
 └── README.md
 ```
 
