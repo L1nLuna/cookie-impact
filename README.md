@@ -9,13 +9,13 @@
 
 # Структура проекта
 yolo_clicker/
-├── app.py
+├── app.py                          
 ├── runs/
 │   └── detect/
-│       └── cookie_derector-2/
+│       └── cookie_derector-4/
 │           └── weights/
-│               ├── best.pt
-│               └── best.onnx 
+│               ├── best.pt         
+│               └── best.onnx       
 └── README.md
 
 # Управление
