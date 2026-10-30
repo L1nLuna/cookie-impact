@@ -1,0 +1,17 @@
+augument.py
+labels/
+images/
+screenshots/
+data.yaml
+yolov8n.pt
+train.py
+runs/*
+!runs/detect/
+runs/detect/*
+!runs/detect/cookie_derector-2/
+runs/detect/cookie_derector-2/*
+!runs/detect/cookie_derector-2/weights/
+runs/detect/cookie_derector-2/weights/*
+!runs/detect/cookie_derector-2/weights/best.pt
+!runs/detect/cookie_derector-2/weights/best.onnx
+class.txt
