@@ -9,7 +9,7 @@
 
 # Структура проекта
 ```text
-cookie impact/
+cookie-impact/
 ├── app.py
 ├── runs/
 │   └── cookie_derector-2/
