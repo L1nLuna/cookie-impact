@@ -9,7 +9,7 @@
 
 # Структура проекта
 ```text
-yolo_clicker/
+cookie impact/
 ├── app.py
 ├── runs/
 │   └── detect/
