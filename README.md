@@ -12,7 +12,7 @@ yolo_clicker/
 ├── app.py                          
 ├── runs/
 │   └── detect/
-│       └── cookie_derector-4/
+│       └── cookie_derector-2/
 │           └── weights/
 │               ├── best.pt         
 │               └── best.onnx       
